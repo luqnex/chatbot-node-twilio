@@ -3,7 +3,7 @@
 <p>1° - Clone o repositorio utilizando o seu terminal de preferencia</p>
 
 ```bash
-   git clone link
+   git clone https://github.com/luqnex/chatbot-node-twilio.git
 ```
 
 <p>2° - Abra a pasta chatbot-node-twilio</p>
