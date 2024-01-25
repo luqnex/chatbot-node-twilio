@@ -48,6 +48,7 @@ Como posso te ajudar? Digite o *NUMERO* da opção desejada:
     `);
 
       res.send(twiml.toString());
+      break;
   }
 });
 
