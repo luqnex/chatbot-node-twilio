@@ -1,6 +1,6 @@
-const express = require("express");
-const bodyParser = require("body-parser");
-const twilio = require("twilio");
+import express from "express";
+import bodyParser from "body-parser";
+import twilio from "twilio";
 
 const app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
